@@ -1,0 +1,33 @@
+{
+	"Testname": "Login",
+	"vaidtest": [
+		{
+			"username": "standard_user",
+			"password": "secret_sauce"
+		}
+	],
+	"invalidtest": [
+		{
+			"username": "xyz123",
+			"password": "fgty123"
+		}
+	],
+	"emptytest": [
+		{
+			"username": " ",
+			"password": " "
+		}
+	],
+	"validuser": [
+		{
+			"username": "standard_user",
+			"password": "1234567"
+		}
+	],
+	"validpasswrd": [
+		{
+			"username": "123ftyh",
+			"password": "secret_sauce"
+		}
+	]
+}

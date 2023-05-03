@@ -1,0 +1,299 @@
+[INFO ] 2023-05-02 22:38:04.386 [main] Baseclass - ***** TC001_LFvaliddatatest Started *****
+[INFO ] 2023-05-02 22:38:07.766 [main] Baseclass - User Navigated To Loginpage Title
+[INFO ] 2023-05-02 22:38:12.598 [main] Baseclass - User Entered Valid Credentials And Clicked On Login Button
+[INFO ] 2023-05-02 22:38:13.548 [main] Baseclass - User Successfully Navigated To Inventorys Page
+[INFO ] 2023-05-02 22:38:13.548 [main] Baseclass - ***** TC001_LFvaliddatatest Completed *****
+[INFO ] 2023-05-02 23:09:28.885 [main] Baseclass - ***** TC001_LFvaliddatatest Started *****
+[INFO ] 2023-05-02 23:09:29.036 [main] Baseclass - User Navigated To Loginpage Title
+[INFO ] 2023-05-02 23:09:30.924 [main] Baseclass - User Entered Valid Credentials And Clicked On Login Button
+[INFO ] 2023-05-02 23:09:31.907 [main] Baseclass - User Successfully Navigated To Inventorys Page
+[INFO ] 2023-05-02 23:09:31.907 [main] Baseclass - ***** TC001_LFvaliddatatest Completed *****
+[INFO ] 2023-05-02 23:10:22.262 [main] Baseclass - ***** TC001_LFvaliddatatest Started *****
+[INFO ] 2023-05-02 23:10:22.466 [main] Baseclass - User Navigated To Loginpage Title
+[INFO ] 2023-05-02 23:10:23.446 [main] Baseclass - User Entered Valid Credentials And Clicked On Login Button
+[INFO ] 2023-05-02 23:10:23.866 [main] Baseclass - User Successfully Navigated To Inventorys Page
+[INFO ] 2023-05-02 23:10:23.867 [main] Baseclass - ***** TC001_LFvaliddatatest Completed *****
+[INFO ] 2023-05-02 23:11:19.188 [main] Baseclass - ***** TC001_LFvaliddatatest Started *****
+[INFO ] 2023-05-02 23:11:19.340 [main] Baseclass - User Navigated To Loginpage Title
+[INFO ] 2023-05-02 23:11:20.258 [main] Baseclass - User Entered Valid Credentials And Clicked On Login Button
+[INFO ] 2023-05-02 23:11:20.969 [main] Baseclass - User Successfully Navigated To Inventorys Page
+[INFO ] 2023-05-02 23:11:20.969 [main] Baseclass - ***** TC001_LFvaliddatatest Completed *****
+[INFO ] 2023-05-02 23:12:14.499 [main] Baseclass - ***** TC001_LFvaliddatatest Started *****
+[INFO ] 2023-05-02 23:12:14.608 [main] Baseclass - User Navigated To Loginpage Title
+[INFO ] 2023-05-02 23:12:15.399 [main] Baseclass - User Entered Valid Credentials And Clicked On Login Button
+[INFO ] 2023-05-02 23:12:15.917 [main] Baseclass - User Successfully Navigated To Inventorys Page
+[INFO ] 2023-05-02 23:12:15.917 [main] Baseclass - ***** TC001_LFvaliddatatest Completed *****
+[INFO ] 2023-05-02 23:12:49.504 [main] Baseclass - ***** TC002_LFinvalidtest Started *****
+[INFO ] 2023-05-02 23:12:49.587 [main] Baseclass - User Navigated To Loginpage Title
+[INFO ] 2023-05-02 23:12:50.325 [main] Baseclass - User Entered Invalid Credentials And Clicked On Login Button
+[INFO ] 2023-05-02 23:12:50.499 [main] Baseclass - User Still In Login Page Due To Invalid Credentials
+[INFO ] 2023-05-02 23:12:50.499 [main] Baseclass - ***** TC002_LFinvalidtest Completed *****
+[INFO ] 2023-05-02 23:13:18.843 [main] Baseclass - ***** TC002_LFinvalidtest Started *****
+[INFO ] 2023-05-02 23:13:19.053 [main] Baseclass - User Navigated To Loginpage Title
+[INFO ] 2023-05-02 23:13:19.660 [main] Baseclass - User Entered Invalid Credentials And Clicked On Login Button
+[INFO ] 2023-05-02 23:13:19.801 [main] Baseclass - User Still In Login Page Due To Invalid Credentials
+[INFO ] 2023-05-02 23:13:19.801 [main] Baseclass - ***** TC002_LFinvalidtest Completed *****
+[INFO ] 2023-05-02 23:21:46.578 [main] Baseclass - ***** TC002_LFinvalidtest Started *****
+[INFO ] 2023-05-02 23:21:47.375 [main] Baseclass - User Navigated To Loginpage Title
+[INFO ] 2023-05-02 23:21:51.134 [main] Baseclass - User Entered Invalid Credentials And Clicked On Login Button
+[INFO ] 2023-05-02 23:21:51.879 [main] Baseclass - User Still In Login Page Due To Invalid Credentials
+[INFO ] 2023-05-02 23:21:51.879 [main] Baseclass - ***** TC002_LFinvalidtest Completed *****
+[INFO ] 2023-05-02 23:25:16.820 [main] Baseclass - ***** TC003_LFemptytest Started *****
+[INFO ] 2023-05-02 23:25:18.751 [main] Baseclass - User Navigated To Loginpage Title
+[INFO ] 2023-05-02 23:25:31.158 [main] Baseclass - User Entered Empty Credentials And Clicked On Login Button
+[INFO ] 2023-05-02 23:25:31.693 [main] Baseclass - User Still In Login Page Due To Empty Credentials
+[INFO ] 2023-05-02 23:25:31.694 [main] Baseclass - ***** TC003_LFemptytest Completed *****
+[INFO ] 2023-05-02 23:28:00.903 [main] Baseclass - ***** TC003_LFemptytest Started *****
+[INFO ] 2023-05-02 23:28:02.097 [main] Baseclass - User Navigated To Loginpage Title
+[INFO ] 2023-05-02 23:28:11.701 [main] Baseclass - User Entered Empty Credentials And Clicked On Login Button
+[INFO ] 2023-05-02 23:28:12.567 [main] Baseclass - User Still In Login Page Due To Empty Credentials
+[INFO ] 2023-05-02 23:28:12.568 [main] Baseclass - ***** TC003_LFemptytest Completed *****
+[INFO ] 2023-05-02 23:31:21.112 [main] Baseclass - ***** TC003_LFemptytest Started *****
+[INFO ] 2023-05-02 23:31:22.134 [main] Baseclass - User Navigated To Loginpage Title
+[INFO ] 2023-05-02 23:31:25.802 [main] Baseclass - User Entered Empty Credentials And Clicked On Login Button
+[INFO ] 2023-05-02 23:39:17.524 [main] Baseclass - ***** TC003_LFemptytest Started *****
+[INFO ] 2023-05-02 23:39:18.970 [main] Baseclass - User Navigated To Loginpage Title
+[INFO ] 2023-05-02 23:42:04.685 [main] Baseclass - ***** TC003_LFemptytest Started *****
+[INFO ] 2023-05-02 23:42:04.825 [main] Baseclass - User Navigated To Loginpage Title
+[INFO ] 2023-05-02 23:49:28.984 [main] Baseclass - ***** TC003_LFemptytest Started *****
+[INFO ] 2023-05-02 23:49:29.307 [main] Baseclass - User Navigated To Loginpage Title
+[INFO ] 2023-05-02 23:51:50.023 [main] Baseclass - ***** TC003_LFemptytest Started *****
+[INFO ] 2023-05-02 23:51:51.328 [main] Baseclass - User Navigated To Loginpage Title
+[INFO ] 2023-05-02 23:51:53.954 [main] Baseclass - User Entered Empty Credentials And Clicked On Login Button
+[INFO ] 2023-05-02 23:51:54.658 [main] Baseclass - User Still In Login Page Due To Empty Credentials
+[INFO ] 2023-05-02 23:51:54.659 [main] Baseclass - ***** TC003_LFemptytest Completed *****
+[INFO ] 2023-05-02 23:53:02.960 [main] Baseclass - ***** TC003_LFemptytest Started *****
+[INFO ] 2023-05-02 23:53:03.346 [main] Baseclass - User Navigated To Loginpage Title
+[INFO ] 2023-05-02 23:53:07.431 [main] Baseclass - User Entered Empty Credentials And Clicked On Login Button
+[INFO ] 2023-05-02 23:53:07.957 [main] Baseclass - User Still In Login Page Due To Empty Credentials
+[INFO ] 2023-05-02 23:53:07.957 [main] Baseclass - ***** TC003_LFemptytest Completed *****
+[INFO ] 2023-05-02 23:54:44.326 [main] Baseclass - ***** TC003_LFemptytest Started *****
+[INFO ] 2023-05-02 23:54:48.144 [main] Baseclass - User Navigated To Loginpage Title
+[INFO ] 2023-05-02 23:54:51.078 [main] Baseclass - User Entered Empty Credentials And Clicked On Login Button
+[INFO ] 2023-05-02 23:54:51.516 [main] Baseclass - User Still In Login Page Due To Empty Credentials
+[INFO ] 2023-05-02 23:54:51.516 [main] Baseclass - ***** TC003_LFemptytest Completed *****
+[INFO ] 2023-05-03 00:01:59.499 [main] Baseclass - ***** TC004_LFvalidnametest Started *****
+[INFO ] 2023-05-03 00:01:59.950 [main] Baseclass - User Navigated To Loginpage Title
+[INFO ] 2023-05-03 00:02:06.810 [main] Baseclass - User Entered Valid Credentials And Clicked On Login Button
+[INFO ] 2023-05-03 00:02:07.755 [main] Baseclass - User Still In Login Page Due To Invalid Password
+[INFO ] 2023-05-03 00:02:07.756 [main] Baseclass - ***** TC004_LFvalidnametest Completed *****
+[INFO ] 2023-05-03 00:03:06.579 [main] Baseclass - ***** TC004_LFvalidnametest Started *****
+[INFO ] 2023-05-03 00:03:06.656 [main] Baseclass - User Navigated To Loginpage Title
+[INFO ] 2023-05-03 00:03:07.291 [main] Baseclass - User Entered Valid Credentials And Clicked On Login Button
+[INFO ] 2023-05-03 00:03:09.559 [main] Baseclass - User Still In Login Page Due To Invalid Password
+[INFO ] 2023-05-03 00:03:09.560 [main] Baseclass - ***** TC004_LFvalidnametest Completed *****
+[INFO ] 2023-05-03 00:04:49.168 [main] Baseclass - ***** TC004_LFvalidnametest Started *****
+[INFO ] 2023-05-03 00:04:49.265 [main] Baseclass - User Navigated To Loginpage Title
+[INFO ] 2023-05-03 00:04:49.971 [main] Baseclass - User Entered Valid Credentials And Clicked On Login Button
+[INFO ] 2023-05-03 00:04:50.169 [main] Baseclass - User Still In Login Page Due To Invalid Password
+[INFO ] 2023-05-03 00:04:50.170 [main] Baseclass - ***** TC004_LFvalidnametest Completed *****
+[INFO ] 2023-05-03 11:40:31.317 [main] Baseclass - ***** TC005_IFproducttest Started *****
+[INFO ] 2023-05-03 11:40:31.994 [main] Baseclass - User Navigated To Loginpage Title
+[INFO ] 2023-05-03 11:40:37.009 [main] Baseclass - User Entered Invalid Credentials And Clicked On Login Button
+[INFO ] 2023-05-03 11:40:37.788 [main] Baseclass - User Successfully Navigated To Inventorys Page
+[INFO ] 2023-05-03 11:42:06.612 [main] Baseclass - ***** TC005_IFproducttest Started *****
+[INFO ] 2023-05-03 11:42:06.713 [main] Baseclass - User Navigated To Loginpage Title
+[INFO ] 2023-05-03 11:42:07.573 [main] Baseclass - User Entered Invalid Credentials And Clicked On Login Button
+[INFO ] 2023-05-03 11:42:08.022 [main] Baseclass - User Successfully Navigated To Inventorys Page
+[INFO ] 2023-05-03 11:48:16.618 [main] Baseclass - ***** TC005_IFproducttest Started *****
+[INFO ] 2023-05-03 11:48:17.244 [main] Baseclass - User Navigated To Loginpage Title
+[INFO ] 2023-05-03 11:48:20.206 [main] Baseclass - User Entered Invalid Credentials And Clicked On Login Button
+[INFO ] 2023-05-03 11:48:20.793 [main] Baseclass - User Successfully Navigated To Inventorys Page
+[INFO ] 2023-05-03 11:48:21.104 [main] Baseclass - Product Displayed In Inventory Page: Sauce Labs Bolt T-Shirt
+[INFO ] 2023-05-03 11:48:21.105 [main] Baseclass - ***** TC005_IFproducttest Completed *****
+[INFO ] 2023-05-03 11:49:30.052 [main] Baseclass - ***** TC005_IFproducttest Started *****
+[INFO ] 2023-05-03 11:49:30.156 [main] Baseclass - User Navigated To Loginpage Title
+[INFO ] 2023-05-03 11:49:31.027 [main] Baseclass - User Entered Invalid Credentials And Clicked On Login Button
+[INFO ] 2023-05-03 11:49:31.849 [main] Baseclass - User Successfully Navigated To Inventorys Page
+[INFO ] 2023-05-03 11:49:31.943 [main] Baseclass - Product Displayed In Inventory Page: Sauce Labs Backpack
+[INFO ] 2023-05-03 11:49:31.944 [main] Baseclass - ***** TC005_IFproducttest Completed *****
+[INFO ] 2023-05-03 11:59:55.035 [main] Baseclass - ***** TC006_IFsortprdttest Started *****
+[INFO ] 2023-05-03 11:59:55.697 [main] Baseclass - User Navigated To Loginpage Title
+[INFO ] 2023-05-03 12:00:02.038 [main] Baseclass - User Entered Invalid Credentials And Clicked On Login Button
+[INFO ] 2023-05-03 12:00:02.546 [main] Baseclass - User Successfully Navigated To Inventorys Page
+[INFO ] 2023-05-03 12:00:03.029 [main] Baseclass - Product Displayed In Inventory Page: Sauce Labs Backpack
+[INFO ] 2023-05-03 12:00:03.030 [main] Baseclass - ***** TC006_IFsortprdttest Completed *****
+[INFO ] 2023-05-03 12:05:41.824 [main] Baseclass - ***** TC006_IFsortprdttest Started *****
+[INFO ] 2023-05-03 12:05:42.524 [main] Baseclass - User Navigated To Loginpage Title
+[INFO ] 2023-05-03 12:05:47.657 [main] Baseclass - User Entered Invalid Credentials And Clicked On Login Button
+[INFO ] 2023-05-03 12:05:48.279 [main] Baseclass - User Successfully Navigated To Inventorys Page
+[INFO ] 2023-05-03 12:05:49.223 [main] Baseclass - Product Displayed In Inventory Page: Sauce Labs Backpack
+[INFO ] 2023-05-03 12:05:49.224 [main] Baseclass - ***** TC006_IFsortprdttest Completed *****
+[INFO ] 2023-05-03 12:11:36.430 [main] Baseclass - ***** TC006_IFsortprdttest Started *****
+[INFO ] 2023-05-03 12:11:38.066 [main] Baseclass - User Navigated To Loginpage Title
+[INFO ] 2023-05-03 12:11:43.414 [main] Baseclass - User Entered Invalid Credentials And Clicked On Login Button
+[INFO ] 2023-05-03 12:11:44.292 [main] Baseclass - User Successfully Navigated To Inventorys Page
+[INFO ] 2023-05-03 12:11:45.165 [main] Baseclass - Product Displayed In Inventory Page: Sauce Labs Backpack
+[INFO ] 2023-05-03 12:11:45.165 [main] Baseclass - ***** TC006_IFsortprdttest Completed *****
+[INFO ] 2023-05-03 12:23:28.034 [main] Baseclass - ***** TC006_IFsortprdttest Started *****
+[INFO ] 2023-05-03 12:23:28.666 [main] Baseclass - User Navigated To Loginpage Title
+[INFO ] 2023-05-03 12:23:30.944 [main] Baseclass - User Entered Invalid Credentials And Clicked On Login Button
+[INFO ] 2023-05-03 12:23:31.434 [main] Baseclass - User Successfully Navigated To Inventorys Page
+[INFO ] 2023-05-03 12:25:13.759 [main] Baseclass - ***** TC006_IFsortprdttest Started *****
+[INFO ] 2023-05-03 12:25:14.859 [main] Baseclass - User Navigated To Loginpage Title
+[INFO ] 2023-05-03 12:25:20.440 [main] Baseclass - User Entered Invalid Credentials And Clicked On Login Button
+[INFO ] 2023-05-03 12:25:21.312 [main] Baseclass - User Successfully Navigated To Inventorys Page
+[INFO ] 2023-05-03 12:25:22.846 [main] Baseclass - Product Displayed In Inventory Page: Test.allTheThings() T-Shirt (Red)
+[INFO ] 2023-05-03 12:25:22.846 [main] Baseclass - ***** TC006_IFsortprdttest Completed *****
+[INFO ] 2023-05-03 14:16:57.736 [main] Baseclass - ***** TC005_IFproducttest Started *****
+[INFO ] 2023-05-03 14:16:58.268 [main] Baseclass - User Navigated To Loginpage Title
+[INFO ] 2023-05-03 14:17:02.491 [main] Baseclass - User Entered Invalid Credentials And Clicked On Login Button
+[INFO ] 2023-05-03 14:17:03.348 [main] Baseclass - User Successfully Navigated To Inventorys Page
+[INFO ] 2023-05-03 14:17:04.048 [main] Baseclass - Product Displayed In Inventory Page: Sauce Labs Backpack
+[INFO ] 2023-05-03 14:17:04.424 [main] Baseclass - ***** TC005_IFproducttest Completed *****
+[INFO ] 2023-05-03 14:17:39.415 [main] Baseclass - ***** TC005_IFproducttest Started *****
+[INFO ] 2023-05-03 14:17:39.495 [main] Baseclass - User Navigated To Loginpage Title
+[INFO ] 2023-05-03 14:17:40.216 [main] Baseclass - User Entered Invalid Credentials And Clicked On Login Button
+[INFO ] 2023-05-03 14:17:40.560 [main] Baseclass - User Successfully Navigated To Inventorys Page
+[INFO ] 2023-05-03 14:17:40.643 [main] Baseclass - Product Displayed In Inventory Page: Sauce Labs Backpack
+[INFO ] 2023-05-03 14:17:40.970 [main] Baseclass - ***** TC005_IFproducttest Completed *****
+[INFO ] 2023-05-03 14:22:27.263 [main] Baseclass - ***** TC005_IFproducttest Started *****
+[INFO ] 2023-05-03 14:22:27.345 [main] Baseclass - User Navigated To Loginpage Title
+[INFO ] 2023-05-03 14:22:28.089 [main] Baseclass - User Entered Invalid Credentials And Clicked On Login Button
+[INFO ] 2023-05-03 14:22:28.658 [main] Baseclass - User Successfully Navigated To Inventorys Page
+[INFO ] 2023-05-03 14:22:28.766 [main] Baseclass - Product Displayed In Inventory Page: Sauce Labs Backpack
+[INFO ] 2023-05-03 14:22:28.767 [main] Baseclass - ***** TC005_IFproducttest Completed *****
+[INFO ] 2023-05-03 14:23:14.852 [main] Baseclass - ***** TC006_IFsortprdttest Started *****
+[INFO ] 2023-05-03 14:23:14.961 [main] Baseclass - User Navigated To Loginpage Title
+[INFO ] 2023-05-03 14:23:15.726 [main] Baseclass - User Entered Invalid Credentials And Clicked On Login Button
+[INFO ] 2023-05-03 14:23:16.255 [main] Baseclass - User Successfully Navigated To Inventorys Page
+[INFO ] 2023-05-03 14:23:17.635 [main] Baseclass - Product Displayed In Inventory Page: Test.allTheThings() T-Shirt (Red)
+[INFO ] 2023-05-03 14:23:17.636 [main] Baseclass - ***** TC006_IFsortprdttest Completed *****
+[INFO ] 2023-05-03 14:23:44.023 [main] Baseclass - ***** TC006_IFsortprdttest Started *****
+[INFO ] 2023-05-03 14:23:44.140 [main] Baseclass - User Navigated To Loginpage Title
+[INFO ] 2023-05-03 14:23:44.925 [main] Baseclass - User Entered Invalid Credentials And Clicked On Login Button
+[INFO ] 2023-05-03 14:23:45.368 [main] Baseclass - User Successfully Navigated To Inventorys Page
+[INFO ] 2023-05-03 14:23:45.873 [main] Baseclass - Product Displayed In Inventory Page: Test.allTheThings() T-Shirt (Red)
+[INFO ] 2023-05-03 14:23:45.874 [main] Baseclass - ***** TC006_IFsortprdttest Completed *****
+[INFO ] 2023-05-03 14:25:17.588 [main] Baseclass - ***** TC005_IFproducttest Started *****
+[INFO ] 2023-05-03 14:25:18.531 [main] Baseclass - User Navigated To Loginpage Title
+[INFO ] 2023-05-03 14:25:24.035 [main] Baseclass - User Entered Invalid Credentials And Clicked On Login Button
+[INFO ] 2023-05-03 14:25:25.217 [main] Baseclass - User Successfully Navigated To Inventorys Page
+[INFO ] 2023-05-03 14:25:25.279 [main] Baseclass - Product Displayed In Inventory Page: Sauce Labs Backpack
+[INFO ] 2023-05-03 14:25:26.240 [main] Baseclass - ***** TC005_IFproducttest Completed *****
+[INFO ] 2023-05-03 14:25:53.476 [main] Baseclass - ***** TC005_IFproducttest Started *****
+[INFO ] 2023-05-03 14:25:53.605 [main] Baseclass - User Navigated To Loginpage Title
+[INFO ] 2023-05-03 14:25:54.327 [main] Baseclass - User Entered Invalid Credentials And Clicked On Login Button
+[INFO ] 2023-05-03 14:25:55.124 [main] Baseclass - User Successfully Navigated To Inventorys Page
+[INFO ] 2023-05-03 14:25:55.183 [main] Baseclass - Product Displayed In Inventory Page: Sauce Labs Backpack
+[INFO ] 2023-05-03 14:25:55.603 [main] Baseclass - ***** TC005_IFproducttest Completed *****
+[INFO ] 2023-05-03 14:45:39.394 [main] Baseclass - ***** TC008_ACaddprdttest Started *****
+[INFO ] 2023-05-03 14:45:40.315 [main] Baseclass - User Navigated To Loginpage Title
+[INFO ] 2023-05-03 14:45:45.727 [main] Baseclass - User Entered Invalid Credentials And Clicked On Login Button
+[INFO ] 2023-05-03 14:45:46.220 [main] Baseclass - Shopping Cart Link Displayed On WebPage
+[INFO ] 2023-05-03 14:45:46.600 [main] Baseclass - User Navigated To Shopping Cart Page
+[INFO ] 2023-05-03 14:45:46.601 [main] Baseclass - ***** TC008_ACaddprdttest Completed *****
+[INFO ] 2023-05-03 14:50:39.718 [main] Baseclass - ***** TC009_ACcontinebttntest Started *****
+[INFO ] 2023-05-03 14:50:40.593 [main] Baseclass - User Navigated To Loginpage Title
+[INFO ] 2023-05-03 14:50:42.995 [main] Baseclass - User Entered Invalid Credentials And Clicked On Login Button
+[INFO ] 2023-05-03 14:50:43.539 [main] Baseclass - Shopping Cart Link Displayed On WebPage
+[INFO ] 2023-05-03 14:50:43.971 [main] Baseclass - User Navigated To Shopping Cart Page
+[INFO ] 2023-05-03 14:50:44.549 [main] Baseclass - User Navigated To Inventory Page
+[INFO ] 2023-05-03 14:50:44.549 [main] Baseclass - ***** TC009_ACcontinebttntest Completed *****
+[INFO ] 2023-05-03 15:04:44.127 [main] Baseclass - ***** TC010_ACprdtaddtest Started *****
+[INFO ] 2023-05-03 15:04:44.626 [main] Baseclass - User Navigated To Loginpage Title
+[INFO ] 2023-05-03 15:04:49.964 [main] Baseclass - User Entered Invalid Credentials And Clicked On Login Button
+[INFO ] 2023-05-03 15:04:50.537 [main] Baseclass - Shopping Cart Link Displayed On WebPage
+[INFO ] 2023-05-03 15:06:39.072 [main] Baseclass - ***** TC010_ACprdtaddtest Started *****
+[INFO ] 2023-05-03 15:06:39.876 [main] Baseclass - User Navigated To Loginpage Title
+[INFO ] 2023-05-03 15:06:40.837 [main] Baseclass - User Entered Invalid Credentials And Clicked On Login Button
+[INFO ] 2023-05-03 15:06:41.025 [main] Baseclass - Shopping Cart Link Displayed On WebPage
+[INFO ] 2023-05-03 15:10:53.194 [main] Baseclass - ***** TC010_ACprdtaddtest Started *****
+[INFO ] 2023-05-03 15:10:53.933 [main] Baseclass - User Navigated To Loginpage Title
+[INFO ] 2023-05-03 15:10:56.813 [main] Baseclass - User Entered Invalid Credentials And Clicked On Login Button
+[INFO ] 2023-05-03 15:10:57.334 [main] Baseclass - Shopping Cart Link Displayed On WebPage
+[INFO ] 2023-05-03 15:12:43.938 [main] Baseclass - ***** TC010_ACprdtaddtest Started *****
+[INFO ] 2023-05-03 15:12:44.039 [main] Baseclass - User Navigated To Loginpage Title
+[INFO ] 2023-05-03 15:12:45.233 [main] Baseclass - User Entered Invalid Credentials And Clicked On Login Button
+[INFO ] 2023-05-03 15:12:45.623 [main] Baseclass - Shopping Cart Link Displayed On WebPage
+[INFO ] 2023-05-03 15:12:46.052 [main] Baseclass - Shopping Cart Link Displayed On WebPage2222222222222222
+[INFO ] 2023-05-03 15:17:21.742 [main] Baseclass - ***** TC010_ACprdtaddtest Started *****
+[INFO ] 2023-05-03 15:17:21.907 [main] Baseclass - User Navigated To Loginpage Title
+[INFO ] 2023-05-03 15:17:27.543 [main] Baseclass - User Entered Invalid Credentials And Clicked On Login Button
+[INFO ] 2023-05-03 15:17:28.145 [main] Baseclass - Shopping Cart Link Displayed On WebPage
+[INFO ] 2023-05-03 15:17:28.649 [main] Baseclass - Product Added To Cart Page
+[INFO ] 2023-05-03 15:17:29.221 [main] Baseclass - User Product Added To Cart Page
+[INFO ] 2023-05-03 15:17:29.420 [main] Baseclass - Product Removed From Cart Page
+[INFO ] 2023-05-03 15:17:29.420 [main] Baseclass - ***** TC010_ACprdtaddtest Completed *****
+[INFO ] 2023-05-03 15:22:56.961 [main] Baseclass - Test Started For The Given Features
+[INFO ] 2023-05-03 15:25:50.682 [main] Baseclass - Test Started For The Given Features
+[INFO ] 2023-05-03 15:26:26.755 [main] Baseclass - Test Started For:loginWithEmptyCredentials
+[INFO ] 2023-05-03 15:26:27.224 [main] Baseclass - ***** TC003_LFemptytest Started *****
+[INFO ] 2023-05-03 15:26:28.155 [main] Baseclass - User Navigated To Loginpage Title
+[INFO ] 2023-05-03 15:26:30.120 [main] Baseclass - User Entered Empty Credentials And Clicked On Login Button
+[INFO ] 2023-05-03 15:26:30.796 [main] Baseclass - User Still In Login Page Due To Empty Credentials
+[INFO ] 2023-05-03 15:26:30.797 [main] Baseclass - ***** TC003_LFemptytest Completed *****
+[INFO ] 2023-05-03 15:26:30.802 [main] Baseclass - Test Passed:loginWithEmptyCredentials
+[INFO ] 2023-05-03 15:27:08.246 [main] Baseclass - Test Started For:loginWithValidCredentials
+[INFO ] 2023-05-03 15:27:08.248 [main] Baseclass - ***** TC001_LFvaliddatatest Started *****
+[INFO ] 2023-05-03 15:27:08.267 [main] Baseclass - User Navigated To Loginpage Title
+[INFO ] 2023-05-03 15:27:11.321 [main] Baseclass - User Entered Valid Credentials And Clicked On Login Button
+[INFO ] 2023-05-03 15:27:11.712 [main] Baseclass - User Successfully Navigated To Inventorys Page
+[INFO ] 2023-05-03 15:27:11.713 [main] Baseclass - ***** TC001_LFvaliddatatest Completed *****
+[INFO ] 2023-05-03 15:27:11.714 [main] Baseclass - Test Passed:loginWithValidCredentials
+[INFO ] 2023-05-03 15:27:26.569 [main] Baseclass - Test Started For:inventoryProductTest
+[INFO ] 2023-05-03 15:27:26.571 [main] Baseclass - ***** TC005_IFproducttest Started *****
+[INFO ] 2023-05-03 15:27:26.590 [main] Baseclass - User Navigated To Loginpage Title
+[INFO ] 2023-05-03 15:27:27.258 [main] Baseclass - User Entered Invalid Credentials And Clicked On Login Button
+[INFO ] 2023-05-03 15:27:28.519 [main] Baseclass - User Successfully Navigated To Inventorys Page
+[INFO ] 2023-05-03 15:27:28.582 [main] Baseclass - Product Displayed In Inventory Page: Sauce Labs Backpack
+[INFO ] 2023-05-03 15:27:29.473 [main] Baseclass - ***** TC005_IFproducttest Completed *****
+[INFO ] 2023-05-03 15:27:29.474 [main] Baseclass - Test Passed:inventoryProductTest
+[INFO ] 2023-05-03 15:27:38.222 [main] Baseclass - Test Started For:shoppingCartPage
+[INFO ] 2023-05-03 15:27:38.224 [main] Baseclass - ***** TC009_ACcontinebttntest Started *****
+[INFO ] 2023-05-03 15:27:38.250 [main] Baseclass - User Navigated To Loginpage Title
+[INFO ] 2023-05-03 15:27:38.963 [main] Baseclass - User Entered Invalid Credentials And Clicked On Login Button
+[INFO ] 2023-05-03 15:27:39.159 [main] Baseclass - Shopping Cart Link Displayed On WebPage
+[INFO ] 2023-05-03 15:27:39.652 [main] Baseclass - User Navigated To Shopping Cart Page
+[INFO ] 2023-05-03 15:27:39.919 [main] Baseclass - User Navigated To Inventory Page
+[INFO ] 2023-05-03 15:27:39.920 [main] Baseclass - ***** TC009_ACcontinebttntest Completed *****
+[INFO ] 2023-05-03 15:27:39.920 [main] Baseclass - Test Passed:shoppingCartPage
+[INFO ] 2023-05-03 15:27:46.133 [main] Baseclass - Test Started For:loginWithInValidCredentials
+[INFO ] 2023-05-03 15:27:46.135 [main] Baseclass - ***** TC002_LFinvalidtest Started *****
+[INFO ] 2023-05-03 15:27:46.155 [main] Baseclass - User Navigated To Loginpage Title
+[INFO ] 2023-05-03 15:27:46.816 [main] Baseclass - User Entered Invalid Credentials And Clicked On Login Button
+[INFO ] 2023-05-03 15:27:46.971 [main] Baseclass - User Still In Login Page Due To Invalid Credentials
+[INFO ] 2023-05-03 15:27:46.972 [main] Baseclass - ***** TC002_LFinvalidtest Completed *****
+[INFO ] 2023-05-03 15:27:46.973 [main] Baseclass - Test Passed:loginWithInValidCredentials
+[INFO ] 2023-05-03 15:27:53.017 [main] Baseclass - Test Started For:loginWithValidUserName
+[INFO ] 2023-05-03 15:27:53.021 [main] Baseclass - ***** TC004_LFvalidnametest Started *****
+[INFO ] 2023-05-03 15:27:53.039 [main] Baseclass - User Navigated To Loginpage Title
+[INFO ] 2023-05-03 15:27:53.588 [main] Baseclass - User Entered Valid Credentials And Clicked On Login Button
+[INFO ] 2023-05-03 15:27:53.746 [main] Baseclass - User Still In Login Page Due To Invalid Password
+[INFO ] 2023-05-03 15:27:53.747 [main] Baseclass - ***** TC004_LFvalidnametest Completed *****
+[INFO ] 2023-05-03 15:27:53.747 [main] Baseclass - Test Passed:loginWithValidUserName
+[INFO ] 2023-05-03 15:28:00.487 [main] Baseclass - Test Started For:inventoryProductTest
+[INFO ] 2023-05-03 15:28:00.488 [main] Baseclass - ***** TC005_IFproducttest Started *****
+[INFO ] 2023-05-03 15:28:00.507 [main] Baseclass - User Navigated To Loginpage Title
+[INFO ] 2023-05-03 15:28:01.172 [main] Baseclass - User Entered Invalid Credentials And Clicked On Login Button
+[INFO ] 2023-05-03 15:28:01.554 [main] Baseclass - User Successfully Navigated To Inventorys Page
+[INFO ] 2023-05-03 15:28:01.612 [main] Baseclass - Product Displayed In Inventory Page: Sauce Labs Backpack
+[INFO ] 2023-05-03 15:28:01.613 [main] Baseclass - ***** TC005_IFproducttest Completed *****
+[INFO ] 2023-05-03 15:28:01.614 [main] Baseclass - Test Passed:inventoryProductTest
+[INFO ] 2023-05-03 15:28:09.400 [main] Baseclass - Test Started For:shoppingCartPage
+[INFO ] 2023-05-03 15:28:09.403 [main] Baseclass - ***** TC010_ACprdtaddtest Started *****
+[INFO ] 2023-05-03 15:28:09.464 [main] Baseclass - User Navigated To Loginpage Title
+[INFO ] 2023-05-03 15:28:10.188 [main] Baseclass - User Entered Invalid Credentials And Clicked On Login Button
+[INFO ] 2023-05-03 15:28:10.418 [main] Baseclass - Shopping Cart Link Displayed On WebPage
+[INFO ] 2023-05-03 15:28:10.814 [main] Baseclass - Product Added To Cart Page
+[INFO ] 2023-05-03 15:28:11.213 [main] Baseclass - User Product Added To Cart Page
+[INFO ] 2023-05-03 15:28:11.389 [main] Baseclass - Product Removed From Cart Page
+[INFO ] 2023-05-03 15:28:11.390 [main] Baseclass - ***** TC010_ACprdtaddtest Completed *****
+[INFO ] 2023-05-03 15:28:11.392 [main] Baseclass - Test Passed:shoppingCartPage
+[INFO ] 2023-05-03 15:28:18.690 [main] Baseclass - Test Started For:inventoryProductSortTest
+[INFO ] 2023-05-03 15:28:18.692 [main] Baseclass - ***** TC006_IFsortprdttest Started *****
+[INFO ] 2023-05-03 15:28:18.706 [main] Baseclass - User Navigated To Loginpage Title
+[INFO ] 2023-05-03 15:28:19.416 [main] Baseclass - User Entered Invalid Credentials And Clicked On Login Button
+[INFO ] 2023-05-03 15:28:19.770 [main] Baseclass - User Successfully Navigated To Inventorys Page
+[INFO ] 2023-05-03 15:28:20.286 [main] Baseclass - Product Displayed In Inventory Page: Test.allTheThings() T-Shirt (Red)
+[INFO ] 2023-05-03 15:28:20.287 [main] Baseclass - ***** TC006_IFsortprdttest Completed *****
+[INFO ] 2023-05-03 15:28:20.288 [main] Baseclass - Test Passed:inventoryProductSortTest
+[INFO ] 2023-05-03 15:28:26.408 [main] Baseclass - Test Started For:shoppingCartPage
+[INFO ] 2023-05-03 15:28:26.411 [main] Baseclass - ***** TC008_ACaddprdttest Started *****
+[INFO ] 2023-05-03 15:28:26.432 [main] Baseclass - User Navigated To Loginpage Title
+[INFO ] 2023-05-03 15:28:27.095 [main] Baseclass - User Entered Invalid Credentials And Clicked On Login Button
+[INFO ] 2023-05-03 15:28:27.252 [main] Baseclass - Shopping Cart Link Displayed On WebPage
+[INFO ] 2023-05-03 15:28:27.597 [main] Baseclass - User Navigated To Shopping Cart Page
+[INFO ] 2023-05-03 15:28:27.597 [main] Baseclass - ***** TC008_ACaddprdttest Completed *****
+[INFO ] 2023-05-03 15:28:27.598 [main] Baseclass - Test Passed:shoppingCartPage
+[INFO ] 2023-05-03 15:28:28.214 [main] Baseclass - Test Completed For The Given Features

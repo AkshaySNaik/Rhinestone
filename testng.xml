@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<listeners>
+		<listener class-name="com.rhinestone.utilities.ExtentListener"></listener>
+	</listeners>
+	<test thread-count="5" name="Test">
+		<classes>
+			<class name="com.rhinestone.testcase.TC003_LFemptytest" />
+			<class name="com.rhinestone.testcase.TC001_LFvaliddatatest" />
+			<class name="com.rhinestone.testcase.TC007_IFproductpagetest" />
+			<class name="com.rhinestone.testcase.TC009_ACcontinebttntest" />
+			<class name="com.rhinestone.testcase.TC002_LFinvalidtest" />
+			<class name="com.rhinestone.testcase.TC004_LFvalidnametest" />
+			<class name="com.rhinestone.testcase.TC005_IFproducttest" />
+			<class name="com.rhinestone.testcase.TC010_ACprdtaddtest" />
+			<class name="com.rhinestone.testcase.TC006_IFsortprdttest" />
+			<class name="com.rhinestone.testcase.TC008_ACaddprdttest" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,18 @@
+{
+	"Testname": "Inventory",
+	"producttest": [
+		{
+			"username": "standard_user",
+			"password": "secret_sauce",
+			"product": "Sauce Labs Backpack"
+		}
+	],
+	"sorttest": [
+		{
+			"username": "standard_user",
+			"password": "secret_sauce",
+			"select": "Name (Z to A)",
+			"product": "Test.allTheThings() T-Shirt (Red)"
+		}
+	]
+}
